@@ -54,7 +54,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Push Notification Demo')),
+      appBar: AppBar(title: Text('Final Push Notification Demo')),
       body: Center(
         child: Text('Push Notification Demo'),
       ),
